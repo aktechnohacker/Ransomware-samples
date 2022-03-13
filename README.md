@@ -13,8 +13,8 @@
 <p>  Ransomware is malware designed to deny a user or organization access to files on their computer. By encrypting these files and demanding a ransom payment for the decryption key, these malware place organizations in a position where paying the ransom is the easiest and cheapest way to regain access to their files. </p>
 
 
-
-
+  <h3 align="Left">   How it works ?     </h3>
+<p> Hackers use malicious software to lock and encrypt the files on your computer or device. They can then hold those files hostage, disabling you from accessing your data until you pay a ransom. When you do pay, they may or may not give you a decryption key to regain access. </p>
 
 
 
@@ -44,11 +44,10 @@
 
 
 
-### NOTE
+### NOTE:
 This repository contains actual malware & Ransomware, do not execute any of these files on your pc unless you know exactly what you are doing.
 
-#### password
-All 7z and zip files are password protected and the password is "infected" (without quotes).
+### <h2>Password</h2> All 7z and zip files are password protected and the password is "infected" (without quotes).
 
 
 
